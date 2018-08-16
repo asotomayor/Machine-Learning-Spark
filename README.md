@@ -8,5 +8,5 @@ Este repositorio contiene los trabajos realizados dentro de la plataforma Databr
 **Módulo 8 : Recomendador de películas con Spark**
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/62831561069284/4464241762031992/4938627684283026/latest.html
 
-** Proyecto Final de Máster: Predicción de la concentración de PM2.5 en la ciudad de Beijing**
+**Proyecto Final de Máster: Predicción de la concentración de PM2.5 en la ciudad de Beijing**
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/62831561069284/15491559134452/4938627684283026/latest.html
