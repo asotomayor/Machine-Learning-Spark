@@ -1,12 +1,12 @@
 # Machine-Learning-Spark
 
-Este repositorio contiene los trabajos realizados dentro de la plataforma Databricks llevados a cabo como tareas del Máster Telefónica de Big Data y Business Analytics.
+This repository contains the works carried out within the Databricks platform performed as tasks of the Telefónica Master of Big Data and Business Analytics.
 
-**Módulo 7: Machine Learning con Spark**
+**Módulo 7: Machine Learning with Spark**
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/62831561069284/2596482667808208/4938627684283026/latest.html
 
-**Módulo 8 : Recomendador de películas con Spark**
+**Módulo 8 : Movie recommender with Spark**
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/62831561069284/4464241762031992/4938627684283026/latest.html
 
-**Proyecto Final de Máster: Predicción de la concentración de PM2.5 en la ciudad de Beijing**
+**Master Project: PM2.5 Pollution Predicting in Beijing City**
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/62831561069284/15491559134452/4938627684283026/latest.html
