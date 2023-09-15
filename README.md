@@ -10,3 +10,5 @@ This repository contains the works carried out within the Databricks platform pe
 
 **Master Project: PM2.5 Pollution Predicting in Beijing City**
 - https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/62831561069284/15491559134452/4938627684283026/latest.html
+
+[![HitCount](https://hits.dwyl.com/asotomayor/Machine-Learning-Spark.svg?style=flat-square&show=unique)](http://hits.dwyl.com/asotomayor/Machine-Learning-Spark)
